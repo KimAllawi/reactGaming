@@ -1,0 +1,22 @@
+.kim{
+    color: white;
+}
+
+
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* .section-wrapper{
+    padding: calc(var(--padding-primary)/5);
+    background-color: var(--color-light);
+    margin-top: var(--margin-primary);
+    border-radius: var(--border-radius-primary);
+ } */
+
+
+
+
+
